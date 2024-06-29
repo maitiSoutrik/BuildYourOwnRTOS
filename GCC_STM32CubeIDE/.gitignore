@@ -1,0 +1,28 @@
+# STM32CubeIDE specific files
+GCC_STM32CubeIDE/.metadata/
+GCC_STM32CubeIDE/.settings/
+GCC_STM32CubeIDE/.cproject
+GCC_STM32CubeIDE/.project
+
+# Build output directories
+GCC_STM32CubeIDE/0_led_driver/Debug/
+GCC_STM32CubeIDE/0_led_driver/Release/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Compiled object files
+*.o
+*.obj
+
+# Compiled binary files
+*.elf
+*.bin
+*.hex
+*.map
+
+# Logs
+*.log
